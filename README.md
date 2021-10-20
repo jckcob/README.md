@@ -4,15 +4,15 @@
 
 
 
-[TV Shows](https://github.com/jckcob/README.md/blob/main/TV%20Shows)
+[**TV Shows**](https://github.com/jckcob/README.md/blob/main/TV%20Shows)
 
-[Video Games](https://github.com/jckcob/README.md/blob/main/video)
+[**Video Games**](https://github.com/jckcob/README.md/blob/main/video)
 
-[Friends](https://github.com/jckcob/README.md/blob/main/friends)
+[**Friends**](https://github.com/jckcob/README.md/blob/main/friends)
 
-[Hobbies](https://github.com/jckcob/README.md/blob/main/hobbies)
+[**Hobbies**](https://github.com/jckcob/README.md/blob/main/hobbies)
 
-[Music](https://github.com/jckcob/README.md/blob/main/Music)
+[**Music**](https://github.com/jckcob/README.md/blob/main/Music)
 
 
 
