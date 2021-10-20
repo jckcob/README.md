@@ -8,7 +8,7 @@
 
 [Video Games](https://github.com/jckcob/README.md/blob/main/video)
 
-[Friends]
+[Friends](https://github.com/jckcob/README.md/blob/main/friends)
 
 [Hobbies]
 
