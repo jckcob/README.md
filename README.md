@@ -7,8 +7,6 @@
 
 
 
-![StarWars](StarWars.jpg)
-
 
 
 
