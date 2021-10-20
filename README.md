@@ -10,7 +10,7 @@
 
 [Friends](https://github.com/jckcob/README.md/blob/main/friends)
 
-[Hobbies]
+[Hobbies](https://github.com/jckcob/README.md/blob/main/hobbies)
 
 [Music](https://github.com/jckcob/README.md/blob/main/Music)
 
