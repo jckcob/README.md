@@ -12,5 +12,5 @@ I played this game mainly as a way to connect to my younger brother and cousins.
 
 
 3. League of Legends
-This game has its moments. I only still play because my friends do.
-![League](https://styles.redditmedia.com/t5_2rfxx/styles/communityIcon_9yj66cjf8oq61.png?width=256&s=c0afcd1490e52c1641a698b5453570b7bec50b11)
+This game has its moments. I only still play because my friends do but when I do there is always some stupid update that takes forever to download.
+![League](https://pics.me.me/league-legends-of-eta-0-mins-151-0-mb-133-2-mb-hey-43223637.png)
