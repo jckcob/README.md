@@ -5,7 +5,7 @@ The marketed this show as a "childrens show" but that is full of lies. It explor
 as a young kid so when I grew up and went back to this show it was really good because I finally understood the message 
 the show was trying to convey.
 
-<img src="https://m.media-amazon.com/images/M/MV5BZWFlNzRmOTItZjY1Ni00ZjZkLTk5MDgtOGFhOTYzNWFhYzhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="StarWars" height="300"/>
+<img src="https://m.media-amazon.com/images/M/MV5BZWFlNzRmOTItZjY1Ni00ZjZkLTk5MDgtOGFhOTYzNWFhYzhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" alt="StarWars" height="500"/>
 
 2. Demon Slayer
 The animation team really put their heart and soul into this show and it really shows with how detailed the animation is.
