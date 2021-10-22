@@ -4,15 +4,15 @@
 
 
 
-[**TV Shows**](https://github.com/jckcob/README.md/blob/main/TVShows.md)
+-[**TV Shows**](https://github.com/jckcob/README.md/blob/main/TVShows.md)
 
-[**Video Games**](https://github.com/jckcob/README.md/blob/main/videoGames.md)
+-[**Video Games**](https://github.com/jckcob/README.md/blob/main/videoGames.md)
 
-[**Friends**](https://github.com/jckcob/README.md/blob/main/images/Friends.md)
+-[**Friends**](https://github.com/jckcob/README.md/blob/main/images/Friends.md)
 
-[**Hobbies**](https://github.com/jckcob/README.md/blob/main/hobbies.md)
+-[**Hobbies**](https://github.com/jckcob/README.md/blob/main/hobbies.md)
 
-[**Music**](https://github.com/jckcob/README.md/blob/main/Music.md)
+-[**Music**](https://github.com/jckcob/README.md/blob/main/Music.md)
 
 
 [Follow me on Instagram I post ***very*** often!](https://www.instagram.com/jacobnt03/)
