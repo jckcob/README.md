@@ -11,11 +11,11 @@ the show was trying to convey.
 The animation team really put their heart and soul into this show and it really shows with how detailed the animation is.
 The show also does a really good job at blending 2d art with 3d objects which is very hard to balance when making a show.
 
-<img src="https://pbs.twimg.com/media/FAI4Bg5VcAAoMJY.jpg" alt="StarWars" height="500"/>
+<img src="https://pbs.twimg.com/media/FAI4Bg5VcAAoMJY.jpg" alt="DemonSlayer" height="500"/>
 
 3. Jujutsu Kaisen
 One of my first animes I watched was naruto and this show basically does what naruto does but without the filler arcs inbetween.
 The show has significantly better pacing and the characters are more realatable to real people.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/81U9w5zFvwL.jpg" height="500"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81U9w5zFvwL.jpg" alt="JJK" height="500"/>
 
