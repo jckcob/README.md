@@ -5,6 +5,8 @@ I played violin for over 9 years but after 9 years I still don't think I am very
 
 ## Playing boardgames with friends or family
 Board games are fun. I prefer board games over video games because of the real life interaction and I am not bounded by the rules of the virtual world.
+
+My Favorite games are:
 1. Coup
 2. Secret Hitler
 3. Chess
