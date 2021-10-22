@@ -1,7 +1,7 @@
 # TV shows
 
 1. Star Wars The Clone Wars
-![StarWars](StarWars.jpg)
+![StarWars]()
 
 
 2. Demon Slayer
