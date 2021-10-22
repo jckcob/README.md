@@ -4,7 +4,7 @@
 
 
 
-[**TV Shows**](https://github.com/jckcob/README.md/blob/main/TV%20Shows)
+[**TV Shows**](https://github.com/jckcob/README.md/blob/main/TVShows.md)
 
 [**Video Games**](https://github.com/jckcob/README.md/blob/main/video)
 
