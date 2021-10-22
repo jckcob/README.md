@@ -20,5 +20,4 @@ as he gets older.
 Favorite song: ***The Real Slim Shady***
 
 
-I do appreciate the old orchestra and piano composers unfortunately Liszt, Mozart and Tchaikovsky haven't dropped a new album in years. 
-:(
+I do appreciate the old orchestra and piano composers unfortunately Liszt, Mozart and Tchaikovsky haven't dropped a new album in years.:(
