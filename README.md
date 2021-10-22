@@ -12,7 +12,7 @@
 
 [**Hobbies**](https://github.com/jckcob/README.md/blob/main/hobbies)
 
-[**Music**](https://github.com/jckcob/README.md/blob/main/Music)
+[**Music**](https://github.com/jckcob/README.md/blob/main/Music.md)
 
 
 [Follow me on Instagram I post ***very*** often!](https://www.instagram.com/jacobnt03/)
