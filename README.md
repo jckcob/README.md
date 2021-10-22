@@ -6,7 +6,7 @@
 
 [**TV Shows**](https://github.com/jckcob/README.md/blob/main/TVShows.md)
 
-[**Video Games**](https://github.com/jckcob/README.md/blob/main/video)
+[**Video Games**](https://github.com/jckcob/README.md/blob/main/videoGames.md)
 
 [**Friends**](https://github.com/jckcob/README.md/blob/main/friends)
 
