@@ -4,11 +4,11 @@
 ## Minecraft
 
 This was my childhood game I would always default to playing this game whenever I had free time to play. This is the best game ever don't argue with me on it.
-<img src="https://cdn.mos.cms.futurecdn.net/tAPb5nKEYXMxtZucUyixRg.jpg" alt="MC" height="400"/>
+<img src="https://cdn.mos.cms.futurecdn.net/tAPb5nKEYXMxtZucUyixRg.jpg" alt="MC" height="500"/>
 
 ## Roblox
 I played this game mainly as a way to connect to my younger brother and cousins. Despite how *stupid* the game looks it is a deceptively fun game.
-<img src="https://media.wired.com/photos/604be13a1d09b7f18fe49d6c/2:1/w_1919,h_959,c_limit/Gear-Roblox-jailbreak_1920x1080.jpg" alt="Roblox" height="400"/>
+<img src="https://media.wired.com/photos/604be13a1d09b7f18fe49d6c/2:1/w_1919,h_959,c_limit/Gear-Roblox-jailbreak_1920x1080.jpg" alt="Roblox" height="500"/>
 
 
 
